@@ -1,6 +1,6 @@
 # Notes - HTML & CSS Crash Course Tutorial
 
-### [Youtube progress](https://www.youtube.com/watch?v=D3iEE29ZXRM&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=4&ab_channel=TheNetNinja)
+### [Youtube progress](https://www.youtube.com/watch?v=FHZn6706e3Q&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=5&ab_channel=TheNetNinja)
 
 ---
 
@@ -24,3 +24,5 @@ All the course files for the HTML &amp; CSS crash course from The Net Ninja YouT
 -   inline elements can only have margin to the left and the right of the element
 -   inline element's paddind doesn't always works as expected
 -   be carefull with margin collapsing in block-level elements (in this example divs should be 40px apart from each other and not 20px)
+
+## CSS Classes & Selectors
